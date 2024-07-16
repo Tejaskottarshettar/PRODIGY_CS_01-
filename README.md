@@ -4,16 +4,21 @@ This is a Python script that implements a simple Caesar cipher encryption and de
 
 ## Usage
 1. Run the caesar_cipher.py script.
+
 2.You will be prompted to enter a message and a shift value.
+
 3.The script will then encrypt the message using the provided shift value and print the encrypted message (cipher text) along with the original message, shift value, and decrypted message.
 
 ## Functions
 
 encrypt(text, s): Encrypts the input text using the Caesar cipher with the given shift value s.
+
 decrypt(text, s): Decrypts the input text using the Caesar cipher with the given shift value s.
 ## Example
 Enter Message: Hello World
+
 Enter shift value: 3
+
 Text: Hello World
 Shift: 3
 Cipher Text: Khoor Zruog
